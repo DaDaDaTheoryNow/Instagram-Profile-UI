@@ -1,5 +1,6 @@
 <h1 align="center">Welcome to Instagram Profile UI App👋</h1>
-> # Technologies
+
+# Technologies
 > - Jetpack Compose
 
 ## Screenshot
